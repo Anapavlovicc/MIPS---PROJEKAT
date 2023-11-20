@@ -1,0 +1,5 @@
+../Core/Src/main.c:66:15:odredjivanjePorta	2
+../Core/Src/main.c:74:5:main	1
+../Core/Src/main.c:133:6:SystemClock_Config	3
+../Core/Src/main.c:170:13:MX_GPIO_Init	1
+../Core/Src/main.c:202:6:Error_Handler	1
